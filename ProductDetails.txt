@@ -1,0 +1,30 @@
+==========
+Product ID: 1
+
+Product Name: Flash Drive
+
+Product price: 3500
+
+
+==========
+Product ID: 1
+
+Product Name: Flash Drive
+
+Product price: 3500
+
+
+
+Shop ID: 1
+
+Shop name: Shop
+
+Address: 1
+
+
+Shop ID: 2
+
+Shop name: Hard
+
+Address: Drive
+
